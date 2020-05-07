@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Blood Donor</string>
+    <string name="slogan">Give Blood, Give Life</string>
+
+
+    <string-array name="division_list">
+        <item>Dhaka</item>
+        <item>Rajshahi</item>
+        <item>Barisal</item>
+        <item>Khulna</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>Chittagong</item>
+        <item>Mymensingh</item>
+
+    </string-array>
+
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+    <array name="Blood_Group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+</resources>
